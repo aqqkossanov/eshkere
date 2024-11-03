@@ -1,0 +1,17 @@
+!DOCTYPE html>
+<html>
+<head>
+    <title>Тут написано, как называется вкладка в браузере</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Зависимость!</h1>
+    <p>Не играйте больше 2 часов в день а тренера не играют</p>
+    <h2>У этого человека не будет будущего</h2>
+             <ul>
+                   <li>Человек не будет за собой ухаживать</li>
+                   <li>И вообще лучше мне телефоны и компы отдайте</li>
+             </ul>
+     <img src="https://avatars.mds.yandex.net/i?id=b92e3ab8ab2fe7ac98c1f898bf79dcb65331d451-5252657-images-thumbs&n=13" alt="Image 1">
+</body>
+</html>
